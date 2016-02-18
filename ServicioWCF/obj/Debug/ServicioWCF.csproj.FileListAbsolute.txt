@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\ServicioWCF.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\ServicioWCF.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\ServicioWCF.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\EntityFramework.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\EntityFramework.SqlServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\EntityFramework.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\bin\EntityFramework.SqlServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\obj\Debug\ServicioWCF.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\obj\Debug\ServicioWCF.dll
+c:\users\alumno\documents\visual studio 2015\Projects\ServicioWCF\ServicioWCF\obj\Debug\ServicioWCF.pdb
