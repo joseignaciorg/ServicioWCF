@@ -32,6 +32,7 @@ namespace ServicioWCF.Modelo.DTO
             usuDTO.apellidos = usu.apellidos;
             usuDTO.id = usu.id;
             return usuDTO;
+            //var
 
         }
 
